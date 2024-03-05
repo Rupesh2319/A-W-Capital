@@ -12,6 +12,7 @@
     "framer-motion": "^9.0.4",
     "gsap": "^3.11.4",
     "hamburger-react": "^2.5.0",
+    "netlify-cli": "^17.17.2",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.0",
     "react-dom": "^18.2.0",
